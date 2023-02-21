@@ -3,6 +3,6 @@ Convert from JSON to TLV and save it to file.
 
 For build:
 from the repo folder execute
-'''
+```bash
 mkdir build && cd build && cmake ../ && make
-'''
+```
